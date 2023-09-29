@@ -1,6 +1,6 @@
 # Badawy-Manag
 
-Badawy-Manag is a Trello-like application built using Firebase for backend functionality. This README provides an overview of the project, instructions for setting it up, and details about its features.
+Badawy-Manag is a Trello clone application built using Firebase for backend functionality. This README provides an overview of the project, instructions for setting it up, and details about its features.
 
 ## Table of Contents
 

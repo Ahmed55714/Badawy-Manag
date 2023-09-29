@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E4D</color>
+    <color name="colorPrimaryDark">#E91E4D</color>
+    <color name="colorAccent">#E91E4D</color>
+
+    <color name="primary_text_color">#363A43</color>
+    <color name="secondary_text_color">#7A8089</color>
+    <color name = "snackbar_error_color">#F72400</color>
+    <color name="divider_color">#EAEAEA</color>
+
+
+    <color name="task_list_action_color">#F7F6FA</color>
+    <color name="task_list_title_view_bg_color">#F8F8F8</color>
+</resources>

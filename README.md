@@ -31,6 +31,7 @@ Badawy-Manag offers the following key features:
 - Create Card in List
 - Customize Card (Color and Date)
 - Add Members
+- push notification
 
 ## Firebase Integration
 
